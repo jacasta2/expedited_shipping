@@ -15,7 +15,7 @@ We designed a laboratory experiment to test the normative predictions of this su
 
 We set the target fill rate at one (i.e., $η = 1$) to simplify decision-making. In addition, during the experiment, the computer automatically executed the second decision stage where applicable. That is, if a participant’s ordering decision $Q$ failed to meet the target fill rate (i.e., 100% of $D$), the computer automatically expedited the remaining $D − Q$ units at unit expediting cost $k$.
 
-For the experiment, we set $r = \\$12$ and $c = \\$3$. We explore participants’ ordering decisions under five different expediting costs $k$: $\\$4$, \\$6, $\\$12$, $\\$18$ and $\\$30$. In addition, we designed a behavioral intervention based on mental accounting and regret aversion to influence how participants perceive expedited shipping and prompt ordering decisions to counteract its detrimental implications. The intervention separated the financial results from regular and expedited orders into separate accounts (mental accounting) and highlighted forgone profits from expedited orders, if any (regret aversion).
+For the experiment, we set $r = \\$12$ and $c = \\$3$. We explore participants’ ordering decisions under five different expediting costs $k$: $\\$4$, $\\$6, $\\$12$, $\\$18$ and $\\$30$. In addition, we designed a behavioral intervention based on mental accounting and regret aversion to influence how participants perceive expedited shipping and prompt ordering decisions to counteract its detrimental implications. The intervention separated the financial results from regular and expedited orders into separate accounts (mental accounting) and highlighted forgone profits from expedited orders, if any (regret aversion).
 
 ## Analysis 	
 
