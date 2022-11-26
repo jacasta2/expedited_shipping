@@ -131,4 +131,5 @@ dmypy.json
 
 # Defined by me
 PowerBI/*.xlsx
+PowerBI/*.csv
 support_stuff/
