@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Defined by me
+PowerBI/*.xlsx
+support_stuff/
