@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+pingouin
+scipy
+linearmodels
+statsmodels
+numpy-indexed
+hypothetical

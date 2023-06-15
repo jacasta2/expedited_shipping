@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/.conda/
 
 # Spyder project settings
 .spyderproject
@@ -130,6 +131,12 @@ dmypy.json
 
 
 # Defined by me
-PowerBI/*.xlsx
-PowerBI/*.csv
-support_stuff/
+/PowerBI/*.xlsx
+/support_stuff/
+/.vscode/
+/images/boxplot_orders_main.png
+/Python/analysis_discussion.ipynb
+/Python/EDA.ipynb
+/Python/raw_data_r1_Stata.csv
+/SE_salience_comment/
+/Stata/
