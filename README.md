@@ -1,6 +1,6 @@
 # Expedited shipping
 
-In this repo we provide (i) a brief description of the research setting of this project, the laboratory (lab) experiment we designed to test it and (ii) a Jupyter notebook with the statistical and econometric analyses reported in the paper. However, we don't offer any interpretation of the results since the paper is under evaluation.
+In this repo we provide (i) a brief description of the research setting of this project, the laboratory (lab) experiment we designed to test it and (ii) a Jupyter notebook with the statistical and econometric analyses reported in the paper. However, we don't offer any interpretation of the results since the paper is under evaluation. We briefly comment the results from the robustness checks to highlight the stability of our results.
 
 ## Getting started
 
