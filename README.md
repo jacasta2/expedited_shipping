@@ -47,7 +47,7 @@ In the folder **PowerBI** you can find the source file of a dashboard that provi
 
 #### Statistics and econometrics
 
-In the folder **Python** you can find the notebook with *Python* code to run the statistical and econometric analyses we report in the paper. The notebook also provides *Stata* code for some of the analyses.
+In the folder **Python** you can find the notebook with *Python* code to run the statistical and econometric analyses we report in the paper. The notebook also provides *Stata* code for some of the analyses (this is also provided in a `.do` file).
 
 ## Credits
 
