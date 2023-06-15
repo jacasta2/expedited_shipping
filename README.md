@@ -18,7 +18,7 @@ You can do the same with the file `dev-requirements.txt`. This file lists some l
 
 In this project we examine behavioral regularities of ordering decisions when there's an expedited shipping option.
 
-### Model
+### Setting
 
 We consider a supplier-buyer channel where the buyer must decide how many units $Q$ to order from her supplier to satisfy a fraction $η$ of her customer demand $D$, *i.e.*, the buyer commits to a target fill rate $η$. She must make her ordering decision before she knows for certain how many units her customers will demand. The buyer can buy the product from her supplier during two different stages. In the first stage, before knowing $D$, she buys $Q$ units from her supplier at unit cost $c$ and obtains revenue $r > c$ for every unit sold. In the second stage, if $Q < ηD$, she expedites the number of units short of $ηD$ from her supplier to guarantee the target fill rate $η$. The unit cost for these expedited units, or expediting cost, is $k \ge c$. These units are also sold at unit price $r$. Note that if $Q \ge ηD$, the channel operates with no second stage. Figure 1 below summarizes the described supplier-buyer channel.
 
